@@ -1,0 +1,14 @@
+cd C:\Users\Vitaly\Desktop\Loli-rpc\Versions\1
+start 1.bat
+cd C:\Users\Vitaly\Desktop\Loli-rpc\Versions\2
+start 2.bat
+cd C:\Users\Vitaly\Desktop\Loli-rpc\Versions\3
+start 3.bat
+cd C:\Users\Vitaly\Desktop\Loli-rpc\Versions\4
+start 4.bat
+cd C:\Users\Vitaly\Desktop\Loli-rpc\Versions\5
+start 5.bat
+cd C:\Users\Vitaly\Desktop\Loli-rpc\Versions\6
+start 6.bat
+cd C:\Users\Vitaly\Desktop\Loli-rpc\Versions\7
+start 7.bat
